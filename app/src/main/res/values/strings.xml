@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Valor KM</string>
+    <string name="km_inicial">Kilometragem Inicial:</string>
+    <string name="km_final">Kilometragem Final:</string>
+    <string name="consumo">Consumo (km/l):</string>
+    <string name="valor_combustivel">Valor do Combustível:</string>
+    <string name="calcular">Calcular</string>
+    <string name="relatorio">RELATÓRIO</string>
+    <string name="voltar">Voltar</string>
+    <string name="txt_inicio">Preencha os campos</string>
+</resources>
