@@ -36,8 +36,7 @@ public class RelatorioActivity extends AppCompatActivity {
         btnVoltar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intentVoltar = new Intent(RelatorioActivity.this, MainActivity.class);
-                startActivity(intentVoltar);
+                finish();
             }
         });
 
